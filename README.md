@@ -1,7 +1,11 @@
-## Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=markhermano)](https://git.io/streak-stats)
+![github-header-image](https://github.com/user-attachments/assets/05df674d-5c8a-42e0-9a40-20d4a63b1dcd)
 
+  <div style="text-align: center">
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=markhermano&theme=dracula&hide_border=false&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" style="margin-top: 20px;"/>
+    </a>
+  </div>
 <!--
 **markhermano/markhermano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
