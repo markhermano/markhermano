@@ -1,9 +1,11 @@
 
 ![github-header-image](https://github.com/user-attachments/assets/05df674d-5c8a-42e0-9a40-20d4a63b1dcd)
 
-  <div style="text-align: center">
+  <div>
     <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=markhermano&theme=dracula&hide_border=false&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" style="margin-top: 20px;"/>
+      <p align="center">
+        <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=markhermano&theme=dracula&hide_border=false&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" style="margin-top: 20px;"/>
+      </p>
     </a>
   </div>
 <!--
